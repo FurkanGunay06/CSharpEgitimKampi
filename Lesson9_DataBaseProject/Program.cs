@@ -17,14 +17,14 @@ namespace Lesson09_DataBaseProject
             Console.WriteLine();
 
             string tableNumber;
-            Console.WriteLine("-------------------------------");
+            Console.WriteLine("------------------------------");
             Console.WriteLine("1-Kategoriler");
             Console.WriteLine("2-Ürünler");
             Console.WriteLine("3-Siparişler");
             Console.WriteLine("4-Çıkış Yap");
             Console.WriteLine("Lütfen Getirmek İstediginiz Tablo Numarasını giriniz");
             tableNumber = Console.ReadLine();
-            Console.WriteLine("-------------------------------");
+            Console.WriteLine("------------------------------");
 
 
             SqlConnection connection = new SqlConnection("Data Source=.\\;initial Catalog=EgitimKampiDb;integrated security=true");
