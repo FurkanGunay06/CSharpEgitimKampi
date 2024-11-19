@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lesson7_Foreach
+namespace Lesson07_Foreach
 {
     internal class Program
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lesson4_Loops
+namespace Lesson04_Loops
 {
     internal class Program
     {

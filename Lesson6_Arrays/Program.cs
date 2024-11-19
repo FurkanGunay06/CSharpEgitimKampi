@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lesson6_Arrays
+namespace Lesson06_Arrays
 {
     internal class Program
     {
