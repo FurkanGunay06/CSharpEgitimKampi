@@ -14,7 +14,7 @@ namespace Lesson03_MakingDecision
         //Console.WriteLine("Lütfen gecerli Sifreyi Giriniz");
         //string password;
         //password = Console.ReadLine();
-        //if (password == "abcd")
+        //if (password == "abascd")
         //{
         //    Console.WriteLine("Sifre Dogru ");
         //}

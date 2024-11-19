@@ -71,7 +71,7 @@ namespace Lesson01_MainSubjects
             //Console.WriteLine("İletişim: " + customerPhone);
             //Console.WriteLine("Email Adresi: " + customerEmail);
             //Console.WriteLine("Adres: " + district + "/" + city);
-            //Console.WriteLine("-------------------------------------------------");
+            //Console.WriteLine("--------------------------------------------------");
 
             //#endregion
 

@@ -26,7 +26,7 @@ namespace Lesson07_Foreach
             //    Console.WriteLine(i);
             //}
 
-            //int[] numbers = { 5, 15, 52, 52, 52, 52, 62, 62 };
+            //int[] numbers = { 5, 15, 53, 52, 52, 52, 62, 62 };
 
             //foreach (int i in numbers)
             //{

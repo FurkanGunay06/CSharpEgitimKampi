@@ -38,7 +38,7 @@ namespace Lesson02_Variables
             //Console.WriteLine();
             //Console.WriteLine();
 
-            //double appleGram, orangeGram, strawberryGram, potatoGram, tomatoGram;
+            //double appleGram, orangeGram, strawberryGram, potatoGram,, tomatoGram;
 
             //appleGram = 1.245;
             //orangeGram = 2.650;

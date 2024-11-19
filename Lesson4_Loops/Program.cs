@@ -36,7 +36,7 @@ namespace Lesson04_Loops
             //    Console.WriteLine(i);
             //}
 
-            //Console.Write("Lütfen ekrana yazılmasını istediğiniz adedi giriniz: ");
+            //Console.Write("Lütfen ekrana yazılmasını istediğiniz adedi  giriniz: ");
             //int finishValue = int.Parse(Console.ReadLine());
 
             //for (int i = 1; i <= finishValue; i++)
@@ -142,9 +142,9 @@ namespace Lesson04_Loops
 
             #region Örnek Sınav Sorusu
 
-            Klavyeden girilen 3 basamaklı sayının basamakları toplamını hesaplayan kodu yazınız.
+          //  Klavyeden girilen 3 basamaklı sayının basamakları toplamını hesaplayan kodu yazınız.
 
-            456
+            //456
 
             Console.Write("Sayıyı Giriniz: ");
             int number = int.Parse(Console.ReadLine());

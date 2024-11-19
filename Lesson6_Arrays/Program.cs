@@ -33,7 +33,7 @@ namespace Lesson06_Arrays
             //numbers[0] = 50;
             //numbers[1] = 48;
             //numbers[2] = 698;
-            //numbers[3] = 24;
+            //numbers[3] = 25;
             //numbers[7] = 748;
             //Console.WriteLine(numbers[5]);
 
