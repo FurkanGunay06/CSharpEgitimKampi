@@ -19,7 +19,7 @@
 
 📍 Proje 9: Bu projede, veritabanı bağlantısı kurarak kullanıcıdan tablo seçimini alıp verileri listeledim. SQL bağlantısı ve sorgu çalıştırma işlemleriyle veritabanı işlemlerine hakim oldum.
 
-📍 Proje 9: CRUD işlemleriyle bir veritabanı üzerinde ürün ve kategori bilgilerini ekleyip, güncelleme ve silme işlemleri gerçekleştirdim. SQL komutlarıyla veri kaydetme ve sorgulama becerimi geliştirdim.
+📍 Proje 10: CRUD işlemleriyle bir veritabanı üzerinde ürün ve kategori bilgilerini ekleyip, güncelleme ve silme işlemleri gerçekleştirdim. SQL komutlarıyla veri kaydetme ve sorgulama becerimi geliştirdim.
 Bu projeler, C# dilindeki temel veritabanı işlemlerini öğrenmemi sağladı. Gelecek projelerde bu bilgileri daha da derinleştireceğim!
 
 Bu projelerle C# diline dair temel programlama becerilerini geliştirdim ve ilerleyen projelerde bu bilgileri daha da derinleştireceğim.
